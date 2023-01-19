@@ -1,0 +1,1018 @@
+fileFormatVersion: 2
+guid: 71fc850fc5672c843ba60fddeb97399d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2350447556287826427
+    second: Edited with beard and no ears_0
+  - first:
+      213: -9081539836930859208
+    second: Edited with beard and no ears_1
+  - first:
+      213: 4838152690354456222
+    second: Edited with beard and no ears_2
+  - first:
+      213: 4930912396581637031
+    second: Edited with beard and no ears_3
+  - first:
+      213: 2642695935184022677
+    second: Edited with beard and no ears_4
+  - first:
+      213: 4419569175425109410
+    second: Edited with beard and no ears_5
+  - first:
+      213: -431252660008452734
+    second: Edited with beard and no ears_6
+  - first:
+      213: -5566433754246216909
+    second: Edited with beard and no ears_7
+  - first:
+      213: -1332433987461975647
+    second: Edited with beard and no ears_8
+  - first:
+      213: 4710716866051373774
+    second: Edited with beard and no ears_9
+  - first:
+      213: 6335646796332294511
+    second: Edited with beard and no ears_10
+  - first:
+      213: -8768775982081421555
+    second: Edited with beard and no ears_11
+  - first:
+      213: 5247519475691490298
+    second: Edited with beard and no ears_12
+  - first:
+      213: -5584779280734891940
+    second: Edited with beard and no ears_13
+  - first:
+      213: 4091429837107500362
+    second: Edited with beard and no ears_14
+  - first:
+      213: 7795831758042741727
+    second: Edited with beard and no ears_15
+  - first:
+      213: -8120909673960730475
+    second: Edited with beard and no ears_16
+  - first:
+      213: -5280277788456689182
+    second: Edited with beard and no ears_17
+  - first:
+      213: 547265478428508518
+    second: Edited with beard and no ears_18
+  - first:
+      213: 7373773382269209538
+    second: Edited with beard and no ears_19
+  - first:
+      213: 7034462758025322131
+    second: Edited with beard and no ears_20
+  - first:
+      213: 7566342375819939988
+    second: Edited with beard and no ears_21
+  - first:
+      213: 9022641716379749556
+    second: Edited with beard and no ears_22
+  - first:
+      213: -6974334435576867774
+    second: Edited with beard and no ears_23
+  - first:
+      213: -2441896598566244282
+    second: Edited with beard and no ears_24
+  - first:
+      213: 152444726923340296
+    second: Edited with beard and no ears_25
+  - first:
+      213: -8733739582680031904
+    second: Edited with beard and no ears_26
+  - first:
+      213: -4042063750399414096
+    second: Edited with beard and no ears_27
+  - first:
+      213: 6484139487340336702
+    second: Edited with beard and no ears_28
+  - first:
+      213: 5996173908239534403
+    second: Edited with beard and no ears_29
+  - first:
+      213: -569337397943667137
+    second: Edited with beard and no ears_30
+  - first:
+      213: -6382333318988911902
+    second: Edited with beard and no ears_31
+  - first:
+      213: -1391920086293104961
+    second: Edited with beard and no ears_32
+  - first:
+      213: 2608660270106452921
+    second: Edited with beard and no ears_33
+  - first:
+      213: -5708677262873409405
+    second: Edited with beard and no ears_34
+  - first:
+      213: -1225569682353385853
+    second: Edited with beard and no ears_35
+  - first:
+      213: -6494933213885484297
+    second: Edited with beard and no ears_36
+  - first:
+      213: -2717651288651274818
+    second: Edited with beard and no ears_37
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Edited with beard and no ears_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 841
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf988b769977e9020800000000000000
+      internalID: 2350447556287826427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edited with beard and no ears_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 841
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f5d2662a3e7f180800000000000000
+      internalID: -9081539836930859208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edited with beard and no ears_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 840
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e968dadfc32942340800000000000000
+      internalID: 4838152690354456222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edited with beard and no ears_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 840
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab81d813be1e6440800000000000000
+      internalID: 4930912396581637031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edited with beard and no ears_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 840
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c230293fdbca420800000000000000
+      internalID: 2642695935184022677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edited with beard and no ears_5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 841
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adca79cfb6755d30800000000000000
+      internalID: 4419569175425109410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edited with beard and no ears_6
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 840
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28df0c79df1e30af0800000000000000
+      internalID: -431252660008452734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edited with beard and no ears_7
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 840
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33309642efd00c2b0800000000000000
+      internalID: -5566433754246216909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edited with beard and no ears_8
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 840
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1fba2195e328de0800000000000000
+      internalID: -1332433987461975647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edited with beard and no ears_9
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 776
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecafe6ef704df5140800000000000000
+      internalID: 4710716866051373774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edited with beard and no ears_10
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 776
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f616abd813dbce750800000000000000
+      internalID: 6335646796332294511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edited with beard and no ears_11
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 775
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f4f0904bc0f4680800000000000000
+      internalID: -8768775982081421555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edited with beard and no ears_12
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 774
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb098c192fe2d840800000000000000
+      internalID: 5247519475691490298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edited with beard and no ears_13
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 775
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50d5d665d0ee72b0800000000000000
+      internalID: -5584779280734891940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edited with beard and no ears_14
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 776
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a451a3072cda7c830800000000000000
+      internalID: 4091429837107500362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edited with beard and no ears_15
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 775
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbb8da0eab503c60800000000000000
+      internalID: 7795831758042741727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edited with beard and no ears_16
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 774
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590998e8dabbc4f80800000000000000
+      internalID: -8120909673960730475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edited with beard and no ears_17
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 775
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e167a7d35fa8b6b0800000000000000
+      internalID: -5280277788456689182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edited with beard and no ears_18
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 711
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661c0979d07489700800000000000000
+      internalID: 547265478428508518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edited with beard and no ears_19
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 711
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb0360c2d7e45660800000000000000
+      internalID: 7373773382269209538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edited with beard and no ears_20
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 712
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e50d5bb9e6f9160800000000000000
+      internalID: 7034462758025322131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edited with beard and no ears_21
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 712
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4909bb77d4c010960800000000000000
+      internalID: 7566342375819939988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edited with beard and no ears_22
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 711
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc8f6846dcd63d70800000000000000
+      internalID: 9022641716379749556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edited with beard and no ears_23
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 711
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2449aae48cf263f90800000000000000
+      internalID: -6974334435576867774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edited with beard and no ears_24
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 711
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64079383bf3ac1ed0800000000000000
+      internalID: -2441896598566244282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edited with beard and no ears_25
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 711
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80aa524eba79d1200800000000000000
+      internalID: 152444726923340296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edited with beard and no ears_26
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 711
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d96957f168bc680800000000000000
+      internalID: -8733739582680031904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edited with beard and no ears_27
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 648
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0b5fd4f64b7e7c0800000000000000
+      internalID: -4042063750399414096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edited with beard and no ears_28
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 648
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e361101628a4cf950800000000000000
+      internalID: 6484139487340336702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edited with beard and no ears_29
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 649
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34945148660b63350800000000000000
+      internalID: 5996173908239534403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edited with beard and no ears_30
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 649
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36f83e27ae4918f0800000000000000
+      internalID: -569337397943667137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edited with beard and no ears_31
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 648
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eaa68359a56d67a0800000000000000
+      internalID: -6382333318988911902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edited with beard and no ears_32
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 648
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6b4c46e08eeace0800000000000000
+      internalID: -1391920086293104961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edited with beard and no ears_33
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 648
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3ae53c1b2d33420800000000000000
+      internalID: 2608660270106452921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edited with beard and no ears_34
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 648
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388c4197644b6c0b0800000000000000
+      internalID: -5708677262873409405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edited with beard and no ears_35
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 648
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e86d30ed6edfee0800000000000000
+      internalID: -1225569682353385853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edited with beard and no ears_36
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 589
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2387257ac5dd5a0800000000000000
+      internalID: -6494933213885484297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edited with beard and no ears_37
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 590
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5ee8c3d86f84ad0800000000000000
+      internalID: -2717651288651274818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
