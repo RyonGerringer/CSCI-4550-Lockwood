@@ -21,10 +21,13 @@ public class ChestController : MonoBehaviour
     // SpriteRenderer reference. Used to change sprite when the chest is toggled.
     private SpriteRenderer RendererObject;
 
+    private Vector3 SPAWNLOCATION1, SPAWNLOCATION2, SPAWNLOCATION3, SPAWNLOCATION4;
+
+
     // Start is called before the first frame update
     void Start()
     {
-
+        RandomSpawnChest(Random.Range(1, 5));
         this.ToggleObject = ScriptableObject.CreateInstance("Toggleable") as Toggleable;
         this.RendererObject = GetComponent<SpriteRenderer>();
 
@@ -50,11 +53,34 @@ public class ChestController : MonoBehaviour
     }
 
     // InOpeningDistance() returns true if the distance between the player
-    // and this treasure chest is less than or equal to one. And, false otherwise.
+    // and this treasure chest is less than or equal to two. And, false otherwise.
     private bool InOpeningDistance()
     {
 
-        return Vector2.Distance(PlayerController.transform.position, this.transform.position) <= 1.0f;
+        return Vector2.Distance(PlayerController.transform.position, this.transform.position) <= 2.0f;
 
+    }
+
+    private void RandomSpawnChest(int randInt)
+    {
+        SPAWNLOCATION1 = new Vector3((float)11.46, (float)5.46, 0);
+        SPAWNLOCATION2 = new Vector3((float)11.46, (float)-5.46, 0);
+        SPAWNLOCATION3 = new Vector3((float)-11.46, (float)5.46, 0);
+        SPAWNLOCATION4 = new Vector3((float)5.65, (float)6.35, 0);
+        switch (randInt)
+        {
+            case 1:
+                this.transform.position = SPAWNLOCATION1;
+                break;
+            case 2:
+                this.transform.position = SPAWNLOCATION2;
+                break;
+            case 3:
+                this.transform.position = SPAWNLOCATION3;
+                break;
+            case 4:
+                this.transform.position = SPAWNLOCATION4;
+                break;
+        }
     }
 }
