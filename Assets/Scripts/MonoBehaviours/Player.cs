@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 
 public class Player : Character
@@ -8,7 +8,7 @@ public class Player : Character
 
     //===============HH'sCode===============================
 
-    public GameObject gameOverText, restartButton;
+    public GameObject gameOverText, restartButton, quitButton;
 
     //===============HH'sCode===============================
 
@@ -16,12 +16,13 @@ public class Player : Character
 
     public void Start()
     {
-        //Removes GameOver from the screen and the button 
-        //while resetting the character at the restart of the 
+        //Removes GameOver from the screen and the button
+        //while resetting the character at the restart of the
         //game
         //===============HH'sCode==================
         gameOverText.SetActive(false);
         restartButton.SetActive(false);
+        quitButton.SetActive(false);
         //================HH'sCode=================
         Timer.SetActive(true);
         ResetCharacter();
@@ -90,6 +91,7 @@ public class Player : Character
         // //================HH'sCode=================
         gameOverText.SetActive(true);
         restartButton.SetActive(true);
+        quitButton.SetActive(true);
         gameObject.SetActive(false);
         //================HH'sCode=================
         Timer.SetActive(false);

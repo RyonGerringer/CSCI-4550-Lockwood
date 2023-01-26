@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -10,7 +10,7 @@ public class TimerController : MonoBehaviour
     public Text TimerText;
 
     // References to several game object(s).
-    public GameObject GameOverText, RestartButton, PlayerController;
+    public GameObject GameOverText, RestartButton, PlayerController, QuitButton;
 
     // The alotted time or starting time.
     // This should be provided in MS; 1000 MS = 1 second, 60000 MS = 60 seconds (1 min.)
@@ -78,7 +78,7 @@ public class TimerController : MonoBehaviour
 
         }
 
-        // If there is less than or equal to five seconds remaining make 
+        // If there is less than or equal to five seconds remaining make
         // text color red.
         if (minutes < 1.0f && seconds <= 5.0f)
         {
@@ -127,6 +127,7 @@ public class TimerController : MonoBehaviour
         enabled = false;
         GameOverText.SetActive(true);
         RestartButton.SetActive(true);
+        QuitButton.SetActive(true);
         PlayerController.SetActive(false);
 
     }
