@@ -1,2 +1,7 @@
 Base path: '/Applications/Unity/Hub/Editor/2020.1.11f1/Unity.app/Contents', plugins path '/Applications/Unity/Hub/Editor/2020.1.11f1/Unity.app/Contents/PlaybackEngines'
 Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 2 plat 14 at (2): failed to open source file: 'StdLib.hlsl'
+  api=14 insize=1957 outsize=0 ok=0
+
+Quitting shader compiler process
