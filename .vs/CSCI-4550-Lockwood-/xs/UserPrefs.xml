@@ -1,0 +1,38 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/newEnemyController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MonoBehaviours/Player.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MovementController.cs" Line="52" Column="47" />
+      <File FileName="Assets/Scripts/MonoBehaviours/Enemy.cs" Line="29" Column="14" />
+      <File FileName="Assets/Scripts/MonoBehaviours/Weapon.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MonoBehaviours/Ammo.cs" Line="13" Column="54" />
+      <File FileName="Assets/Scripts/SpawnPoint.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/newEnemyController.cs" Line="1" Column="1" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSCI-4550-Lockwood-" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Assets" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="MonoBehaviours" expanded="True" />
+                  <Node name="newEnemyController.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
