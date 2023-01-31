@@ -60,14 +60,14 @@ public class newEnemyController : MonoBehaviour
             {
                 // Set the state to attack
                 animator.SetInteger(animationState, (int)CharStates.attack);
-                
+
             }
         }
         else
         {
             // Set the state to idle
             animator.SetInteger(animationState, (int)CharStates.idle);
-            
+
         }
     }
 
