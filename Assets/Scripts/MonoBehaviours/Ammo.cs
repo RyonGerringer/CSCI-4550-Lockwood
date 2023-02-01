@@ -19,5 +19,10 @@ public class Ammo : MonoBehaviour
             StartCoroutine(Enemy.DamageCharacter(damageDone, 1.0f));
             gameObject.SetActive(false);
         }
+        if (collision.gameObject.CompareTag("Collision"))
+        {
+            // Delete the ammo object
+            gameObject.SetActive(false);
+        }
     }
 }
