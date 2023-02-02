@@ -14,6 +14,9 @@ public class Weapon : MonoBehaviour
 
     //Number of objects to place in pool
     public int poolSize;
+
+    //Defines Maximum Distance
+    public float maxDistance;
     
     
     // Called when script is being loaded
@@ -80,19 +83,26 @@ public class Weapon : MonoBehaviour
         //Converts mouse position from screen space to game world space
         Vector3 mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
 
-        //Get new ammo object from weapon current position
-        GameObject ammo = SpawnAmmo(transform.position);
-
-        //Ensure player has ammo
-        if (ammo != null)
+        //Calculate the distance between the weapon and the mouse position
+        float distance = Vector3.Distance(transform.position, mousePosition);
+        Debug.Log(distance);
+        //Only fire the ammo if the distance is less than or equal to the maximum distance
+        if (distance <= maxDistance)
         {
-            //Receive reference to arc script
-            Arc arcScript = ammo.GetComponent<Arc>();
+            //Get new ammo object from weapon current position
+            GameObject ammo = SpawnAmmo(transform.position);
 
-            //Calculates travel time for ammo
-            float travelDuration = 1.0f / weaponVelocity;
+            //Ensure player has ammo
+            if (ammo != null)
+            {
+                //Receive reference to arc script
+                Arc arcScript = ammo.GetComponent<Arc>();
 
-            StartCoroutine(arcScript.TravelArc(mousePosition, travelDuration));
+                //Calculates travel time for ammo
+                float travelDuration = 1.0f / weaponVelocity;
+
+                StartCoroutine(arcScript.TravelArc(mousePosition, travelDuration));
+            }
         }
     }
 }
